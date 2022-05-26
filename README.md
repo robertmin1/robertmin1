@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertmin1
-- 👀 I’m interested in full stake developemnt
+- 👀 I’m interested in full stack developemnt
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on any project
 
