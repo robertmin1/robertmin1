@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertmin1&label=Profile%20views&color=0e75b6&style=flat" alt="robertmin1" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Javascript, Go, Php**
+- 🌱 I’m currently learning **Frameworks, Javascript, Go, Php, Sass, Solidity**
 
 - 📫 How to reach me **mindo.robert1@gmail.com**
 
