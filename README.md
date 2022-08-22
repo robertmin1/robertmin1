@@ -4,7 +4,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/104002271/179185772-beec5f9a-15e2-4c64-9e54-16a6efbbc8d9.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertmin1&label=Profile%20views&color=0e75b6&style=flat" alt="robertmin1" /> </p>
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=robertmin1&label=Profile%20views&color=0e75b6&style=flat" alt="robertmin1" /> </p>
 
 - 🌱 I’m currently learning **Frameworks, Javascript, Go, Sass, Solidity**
 
